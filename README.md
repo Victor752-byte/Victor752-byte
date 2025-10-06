@@ -1,10 +1,9 @@
 # Hi there 👋, I'm Tochukwu Victor!
 
-Welcome to my GitHub profile! I'm a passionate **Front-end Developer** and **Product Designer** focused on building user-centric digital experiences. I enjoy combining code and creativity to bring concepts to life, and I'm always exploring new technologies.
-
+Welcome to my GitHub profile! I'm a passionate **Front-end Developer** focused on building user-centric digital experiences. I enjoy combining code and creativity to bring concepts to life, and I'm always exploring new technologies. Currently expanding into backend development with NestJS, GraphQL, and PostgreSQL, and learning product design to create end-to-end experiences.
 ## 🚀 About Me
 
-- 🎨 Learning UI/UX Design and **React Native** to broaden my design and development capabilities.
+- 🎨 Learning Backend and  UI/UX Design to broaden my design and development capabilities.
 - 🌱 Always striving to learn new things and improve my craft.
 - ⚡ Fun fact: I love solving challenges, whether it's code or a new hobby!
 
@@ -19,6 +18,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-end Developer** and **Pro
 
 **Technologies I'm familiar with**:  
 - **Frontend**: React, Next.js, TypeScript, Tailwind CSS
+- **Backend**: NestJS, PostgreSQL, Prisma, GraphQL
 - **Design**: Figma, UI/UX design principles
 - **Tools**: Git, GitHub, Sentry for bug reporting
 
