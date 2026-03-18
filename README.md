@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Tochukwu Victor!
 
-Welcome to my GitHub profile! I'm a passionate **Front-end Developer** focused on building user-centric digital experiences. I enjoy combining code and creativity to bring concepts to life, and I'm always exploring new technologies. Currently expanding into backend development with NestJS, GraphQL, and PostgreSQL, and learning product design to create end-to-end experiences.
+Welcome to my GitHub profile! I'm a passionate **Front-end Developer** focused on building user-centric digital experiences. I enjoy combining code and creativity to bring concepts to life, and I'm always exploring new technologies. Currently expanding into backend development with NestJS, GraphQL,.Net, EF Core, and PostgreSQL, and learning product design to create end-to-end experiences.
 ## 🚀 About Me
 
 - 🎨 Learning Backend and  UI/UX Design to broaden my design and development capabilities.
@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I'm a passionate **Front-end Developer** focused o
 ![JavaScript](https://img.shields.io/badge/JavaScript-61DAFB?style=flat&logo=react&logoColor=black)
 
 **Technologies I'm familiar with**:  
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
-- **Backend**: NestJS, PostgreSQL, Prisma, GraphQL
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS, Zustand
+- **Backend**: NestJS, PostgreSQL, Prisma, GraphQL, .Net, EF Core
 - **Design**: Figma, UI/UX design principles
 - **Tools**: Git, GitHub, Sentry for bug reporting
 
